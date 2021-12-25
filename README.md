@@ -49,4 +49,4 @@ Please create new issue in this repository to log any issues, questions or bugs.
 The author cannot guarantee that the issues will be addressed in a timely manner, as this repo is not actively maintained.
 
 ## License
-This project is licensed under a BSD 3-Clause license. See the LICENSE.md file for details.
+This project is licensed under a BSD 3-Clause license. See the [LICENSE.md](LICENSE.md) file for details.
